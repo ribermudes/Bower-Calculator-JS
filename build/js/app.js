@@ -42,7 +42,7 @@ $(document).ready(function(){
   $('#time').text(moment());
 });
 
-var apiKey = "http://api.openweathermap.org/data/2.5/weather?q=Portland&appid=d1f2c546eab03534e5613a17122244b8";
+var apiKey = "d35cca52a2a595ec0704ae84ef8cdc8c";
 
 $(document).ready(function() {
   $('#weatherLocation').click(function() {
